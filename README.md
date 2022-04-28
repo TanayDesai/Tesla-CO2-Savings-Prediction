@@ -1,4 +1,4 @@
-# tesla-co2-savings-prediction
+# Tesla CO2 Savings Prediction
 
 ## Description
 Building a ML model to Predict Tesla's deliveries then calculating it's CO2 Savings by 2030 based on publicly available data.
